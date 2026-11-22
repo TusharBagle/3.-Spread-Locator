@@ -71,7 +71,7 @@ Measures of central tendency identify the central or representative value of a d
 
 | Concept | Mathematical Formula |
 |---|---|
-| Mean | \(\bar{x}=\frac{\sum x_i}{n}\) |
+| Mean | (bar{x} = {sum(x_i)} / {n}) |
 | Median | Middle observation |
 | Mode | Most frequently occurring value |
 
@@ -82,10 +82,10 @@ Measures of dispersion describe how widely observations are distributed around t
 | Concept | Mathematical Formula |
 |---|---|
 | Range | Maximum − Minimum |
-| Variance | \(\sigma^2=\frac{\sum(x_i-\mu)^2}{N}\) |
-| Standard Deviation | \(\sigma=\sqrt{\sigma^2}\) |
-| Interquartile Range | \(IQR=Q_3-Q_1\) |
-| Coefficient of Variation | \(CV=\frac{\sigma}{\mu}\times100\) |
+| Variance | (sigma^2 = {sum(x_i - mu)^2} / {N}) |
+| Standard Deviation | (sigma = {sigma^2}) |
+| Interquartile Range | (IQR = Q_3 - Q_1) |
+| Coefficient of Variation | (CV = {sigma} / {mu} * times100) |
 
 ### 3. Probability Distributions
 
